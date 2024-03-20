@@ -16,3 +16,6 @@ El sistema considera la dinámica de un sistema cuántico aplicando una serie de
 
 ## Instrucciones de Ejecución:
 Cada ejercicio se encuentra en un archivo Python separado. Para ejecutar un ejercicio en particular, simplemente ejecuta el script correspondiente.
+## Nota
+Los ejercicios que se nos plantearon del libro para resolver estan ubicados al final del archivo, mientras las soluciones generales de las funciones pedidas tienen un ejemplo cualquiera.
+
